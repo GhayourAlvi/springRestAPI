@@ -1,4 +1,4 @@
-package com.springRestAPIServices;
+package com.springRestAPI.springRestAPIServices;
 
 import com.springRestAPI.springRestAPIEntities.Course;
 

@@ -1,6 +1,6 @@
 package com.springRestAPI.springRestAPIEntities;
 
-import com.springRestAPIServices.CourseServices;
+import com.springRestAPI.springRestAPIServices.CourseServices;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

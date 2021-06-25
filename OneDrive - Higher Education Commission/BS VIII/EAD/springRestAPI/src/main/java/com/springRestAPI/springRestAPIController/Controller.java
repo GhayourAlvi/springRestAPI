@@ -1,7 +1,7 @@
 package com.springRestAPI.springRestAPIController;
 
 import com.springRestAPI.springRestAPIEntities.Course;
-import com.springRestAPIServices.CourseServices;
+import com.springRestAPI.springRestAPIServices.CourseServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
